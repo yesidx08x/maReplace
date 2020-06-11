@@ -1,0 +1,9 @@
+E:\work_ref\vs2013\maGettings\maGettings\maGettings\bin\Debug\maGettings.exe.config
+E:\work_ref\vs2013\maGettings\maGettings\maGettings\bin\Debug\maGettings.exe
+E:\work_ref\vs2013\maGettings\maGettings\maGettings\bin\Debug\maGettings.pdb
+E:\work_ref\vs2013\maGettings\maGettings\maGettings\obj\Debug\maGettings.csprojResolveAssemblyReference.cache
+E:\work_ref\vs2013\maGettings\maGettings\maGettings\obj\Debug\maGettings.mainForm.resources
+E:\work_ref\vs2013\maGettings\maGettings\maGettings\obj\Debug\maGettings.Properties.Resources.resources
+E:\work_ref\vs2013\maGettings\maGettings\maGettings\obj\Debug\maGettings.csproj.GenerateResource.Cache
+E:\work_ref\vs2013\maGettings\maGettings\maGettings\obj\Debug\maGettings.exe
+E:\work_ref\vs2013\maGettings\maGettings\maGettings\obj\Debug\maGettings.pdb
